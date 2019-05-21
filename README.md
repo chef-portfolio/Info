@@ -3,7 +3,7 @@ This project is a collaborate effort between students in various sections of the
 The scope of this project is for students to demonstrate mastery over materials learned in their various sections over a 4 day sprint.
 
 ### UI1 - 
-### UI2 - https://friendly-leakey-a620d2.netlify.com/
+### UI2 - https://chefportfolio.netlify.com/
 ### BackEnd - https://chefportfolio.herokuapp.com/
 
 # TDD
